@@ -55,6 +55,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - 🔹 Inspired by my 365-day ultralearning journey 📚
 - 🔹 Python’s official datetime module documentation
----
-💡 "Every small automation brings big efficiency—keep coding, keep automating!" 🚀
+
 
